@@ -17,3 +17,7 @@ version.py
 tools/*.jpg
 /mmtracking
 __pycache__
+*.pdf
+tutorial/
+.cursor/
+docs/
